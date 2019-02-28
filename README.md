@@ -1,4 +1,4 @@
-# Materiały z zajęć "Programowanie struktur cyfrowych"
+# Materiały z zajęć „Programowanie struktur cyfrowych”
 
 ...
 
